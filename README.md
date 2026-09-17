@@ -1,4 +1,4 @@
-# credit-risk-analysis-default-prediction
+
 # Credit Risk Analysis & Credit Card Default Prediction
 
 A machine learning project focused on predicting credit card default risk using customer demographic, credit-limit, repayment-status, billing, and payment features.
